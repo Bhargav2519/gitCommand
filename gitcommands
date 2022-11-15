@@ -1,5 +1,9 @@
 welcome
+<<<<<<< HEAD
 hello2
+=======
+hello
+>>>>>>> refs/remotes/origin/master
 hello
 hello
 all
